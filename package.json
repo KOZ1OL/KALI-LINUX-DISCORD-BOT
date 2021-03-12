@@ -1,0 +1,17 @@
+{
+  "name": "kali-linux-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "dev": "node main.js",
+    "node .": "node run main.js"
+  },
+  "author": "K0Z1OL",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
