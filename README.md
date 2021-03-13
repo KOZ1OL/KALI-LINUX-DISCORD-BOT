@@ -13,6 +13,6 @@ I want to show you how easy is write working discord bot !
 
 # Donate
 
-If you like my script you can bring me a coffee using : www.paypal.me/k0z1ol4
+If you like my scripts you can bring me a coffee using : www.paypal.me/k0z1ol4
 
 # I hope you will be have got great fun with editing this script !
